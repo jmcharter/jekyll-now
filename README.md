@@ -1,5 +1,11 @@
 # Jekyll Now
 
+**TEST INFORMATION**
+**Test 001.... Complete
+**Test 002.... Complete
+**Test 003.... FAILED
+		--> File does not exist or is not readable
+
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
 **Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
